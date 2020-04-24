@@ -2,6 +2,6 @@
 
 git submodule update --recursive --init && ./scripts/applyPatches.sh
 if [ "$1" == "--jar" ]; then
-    pushd HexaCord
+    pushd Flexagon
     mvn clean package
 fi
