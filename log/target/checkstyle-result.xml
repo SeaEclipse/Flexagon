@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/home/scarlet/BungeeFork/HexaCord/log/src/main/java/net/md_5/bungee/log/LoggingOutputStream.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/log/src/main/java/net/md_5/bungee/log/ColouredWriter.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/log/src/main/java/net/md_5/bungee/log/ConciseFormatter.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/log/src/main/java/net/md_5/bungee/log/LogDispatcher.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/log/src/main/java/net/md_5/bungee/log/BungeeLogger.java">
+</file>
+</checkstyle>

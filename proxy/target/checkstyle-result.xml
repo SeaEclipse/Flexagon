@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/PlayerInfoSerializer.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/PacketConstants.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/conf/Configuration.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/conf/YamlConfig.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/forge/ForgeClientHandler.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/forge/IForgeServerPacketHandler.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/forge/ForgeServerHandshakeState.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/forge/ForgeConstants.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/forge/ForgeClientHandshakeState.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/forge/ForgeServerHandler.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/forge/ForgeUtils.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/forge/ForgeLogger.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/forge/IForgeClientPacketHandler.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/BungeeCord.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/EncryptionUtil.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/BungeeSecurityManager.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/UserConnection.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/BungeeCordLauncher.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/ServerConnection.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/BungeeTitle.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/PlayerSkinConfiguration.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/compress/PacketDecompressor.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/compress/PacketCompressor.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/compress/CompressFactory.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/scheduler/BungeeTask.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/scheduler/BungeeScheduler.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/tab/ServerUnique.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/tab/TabList.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/http/HttpClient.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/http/HttpHandler.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/http/HttpInitializer.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/ConnectionThrottle.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/netty/cipher/CipherDecoder.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/netty/cipher/CipherEncoder.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/netty/HandlerBoss.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/netty/PipelineUtils.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/netty/ChannelWrapper.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/netty/PacketHandler.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/command/CommandIP.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/command/ConsoleCommandCompleter.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/command/CommandPerms.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/command/CommandEnd.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/command/ConsoleCommandSender.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/command/CommandReload.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/command/CommandBungee.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/module/ModuleManager.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/module/ModuleVersion.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/module/TravisCiModuleSource.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/module/ModuleSource.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/module/ModuleSpec.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/module/JenkinsModuleSource.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/ServerConnector.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/util/ChatComponentTransformer.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/util/QuietException.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/util/BufUtil.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/util/BoundedArrayList.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/BungeeServerInfo.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/connection/UpstreamBridge.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/connection/LoginResult.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/connection/CancelSendSignal.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/connection/DownstreamBridge.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/connection/PingHandler.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/connection/InitialHandler.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/entitymap/EntityMap_1_13.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/entitymap/EntityMap_1_9.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/entitymap/EntityMap_1_15.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/entitymap/EntityMap_1_7_2.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/entitymap/EntityMap_1_11.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/entitymap/EntityMap_1_12_1.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/entitymap/EntityMap_1_10.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/entitymap/EntityMap_1_14.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/entitymap/EntityMap_1_12.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/entitymap/EntityMap_1_8.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/entitymap/EntityMap_1_9_4.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/entitymap/EntityMap_1_7_6.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/entitymap/EntityMap.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/main/java/net/md_5/bungee/Metrics.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/test/java/net/md_5/bungee/scheduler/SchedulerTest.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/test/java/net/md_5/bungee/ThrottleTest.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/test/java/net/md_5/bungee/api/plugin/DummyPlugin.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/proxy/src/test/java/net/md_5/bungee/util/BoundedArrayListTest.java">
+</file>
+</checkstyle>

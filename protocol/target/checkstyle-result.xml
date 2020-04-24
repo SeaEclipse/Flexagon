@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/ProtocolConstants.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/AbstractPacketHandler.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/LoginPayloadRequest.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/ViewDistance.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/TabCompleteResponse.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/GameState.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/ClientStatus.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/LoginSuccess.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/KeepAlive.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/PlayerListItem.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/Login.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/LegacyPing.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/ClientSettings.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/TabCompleteRequest.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/BossBar.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/EntityStatus.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/StatusResponse.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/LegacyHandshake.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/Chat.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/Respawn.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/StatusRequest.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/LoginPayloadResponse.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/Kick.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/Commands.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/PluginMessage.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/Title.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/Team.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/SetCompression.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/ScoreboardObjective.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/EncryptionResponse.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/PingPacket.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/PlayerListHeaderFooter.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/LoginRequest.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/EncryptionRequest.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/ScoreboardDisplay.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/Handshake.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/packet/ScoreboardScore.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/MinecraftOutput.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/MinecraftEncoder.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/OverflowPacketException.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/LegacyDecoder.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/Varint21FrameDecoder.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/BadPacketException.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/Protocol.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/MinecraftDecoder.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/KickStringWriter.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/DefinedPacket.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/PacketWrapper.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/Varint21LengthFieldPrepender.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/main/java/net/md_5/bungee/protocol/MinecraftInput.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/protocol/src/test/java/net/md_5/bungee/protocol/packet/PluginMessageTest.java">
+</file>
+</checkstyle>

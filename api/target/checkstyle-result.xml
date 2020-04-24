@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/Util.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/command/PlayerCommand.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/Favicon.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/Callback.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/ProxyServer.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/AbstractReconnectHandler.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/SkinConfiguration.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/ServerConnectRequest.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/CommandSender.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/ProxyConfig.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/config/ServerInfo.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/config/ListenerInfo.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/config/ConfigurationAdapter.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/score/Position.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/score/Objective.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/score/Team.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/score/Score.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/score/Scoreboard.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/scheduler/TaskScheduler.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/scheduler/ScheduledTask.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/scheduler/GroupedThreadFactory.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/plugin/TabExecutor.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/plugin/PluginManager.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/plugin/Command.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/plugin/Listener.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/plugin/PluginClassloader.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/plugin/Plugin.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/plugin/Cancellable.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/plugin/PluginDescription.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/plugin/Event.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/plugin/PluginLogger.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/Title.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/event/PostLoginEvent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/event/PlayerHandshakeEvent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/event/TabCompleteResponseEvent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/event/PermissionCheckEvent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/event/ServerSwitchEvent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/event/ServerConnectedEvent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/event/ServerDisconnectEvent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/event/PreLoginEvent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/event/AsyncEvent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/event/SettingsChangedEvent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/event/ServerConnectEvent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/event/TabCompleteEvent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/event/ClientConnectEvent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/event/PlayerDisconnectEvent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/event/ChatEvent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/event/ProxyPingEvent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/event/ServerKickEvent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/event/PluginMessageEvent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/event/TargetedEvent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/event/ProxyReloadEvent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/event/LoginEvent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/ServerPing.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/ReconnectHandler.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/connection/Connection.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/connection/ProxiedPlayer.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/connection/Server.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/connection/PendingConnection.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/api/connection/ConnectedPlayer.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/util/CaseInsensitiveMap.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/util/CaseInsensitiveSet.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/main/java/net/md_5/bungee/util/CaseInsensitiveHashingStrategy.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/test/java/net/md_5/bungee/api/ServerConnectRequestTest.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/test/java/net/md_5/bungee/util/UUIDTest.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/test/java/net/md_5/bungee/util/CaseInsensitiveTest.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/api/src/test/java/net/md_5/bungee/util/AddressParseTest.java">
+</file>
+</checkstyle>

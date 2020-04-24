@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/home/scarlet/BungeeFork/HexaCord/chat/src/main/java/net/md_5/bungee/chat/TranslatableComponentSerializer.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/chat/src/main/java/net/md_5/bungee/chat/TranslationRegistry.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/chat/src/main/java/net/md_5/bungee/chat/KeybindComponentSerializer.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/chat/src/main/java/net/md_5/bungee/chat/ScoreComponentSerializer.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/chat/src/main/java/net/md_5/bungee/chat/SelectorComponentSerializer.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/chat/src/main/java/net/md_5/bungee/chat/ComponentSerializer.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/chat/src/main/java/net/md_5/bungee/chat/BaseComponentSerializer.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/chat/src/main/java/net/md_5/bungee/chat/TextComponentSerializer.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/chat/src/main/java/net/md_5/bungee/api/chat/ScoreComponent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/chat/src/main/java/net/md_5/bungee/api/chat/Keybinds.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/chat/src/main/java/net/md_5/bungee/api/chat/TranslatableComponent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/chat/src/main/java/net/md_5/bungee/api/chat/ClickEvent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/chat/src/main/java/net/md_5/bungee/api/chat/TextComponent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/chat/src/main/java/net/md_5/bungee/api/chat/ComponentBuilder.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/chat/src/main/java/net/md_5/bungee/api/chat/HoverEvent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/chat/src/main/java/net/md_5/bungee/api/chat/KeybindComponent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/chat/src/main/java/net/md_5/bungee/api/chat/BaseComponent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/chat/src/main/java/net/md_5/bungee/api/chat/SelectorComponent.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/chat/src/main/java/net/md_5/bungee/api/ChatMessageType.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/chat/src/main/java/net/md_5/bungee/api/ChatColor.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/chat/src/test/java/net/md_5/bungee/api/chat/TranslatableComponentTest.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/chat/src/test/java/net/md_5/bungee/api/chat/ComponentsTest.java">
+</file>
+</checkstyle>

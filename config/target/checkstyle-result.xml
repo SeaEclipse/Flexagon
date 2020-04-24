@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/home/scarlet/BungeeFork/HexaCord/config/src/main/java/net/md_5/bungee/config/YamlConfiguration.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/config/src/main/java/net/md_5/bungee/config/Configuration.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/config/src/main/java/net/md_5/bungee/config/JsonConfiguration.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/config/src/main/java/net/md_5/bungee/config/ConfigurationProvider.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/config/src/test/java/net/md_5/bungee/config/DefaultConfigurationTest.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/config/src/test/java/net/md_5/bungee/config/CompoundConfigurationTest.java">
+</file>
+</checkstyle>

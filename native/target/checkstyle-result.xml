@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/home/scarlet/BungeeFork/HexaCord/native/src/main/java/net/md_5/bungee/jni/cipher/NativeCipher.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/native/src/main/java/net/md_5/bungee/jni/cipher/JavaCipher.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/native/src/main/java/net/md_5/bungee/jni/cipher/NativeCipherImpl.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/native/src/main/java/net/md_5/bungee/jni/cipher/BungeeCipher.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/native/src/main/java/net/md_5/bungee/jni/NativeCode.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/native/src/main/java/net/md_5/bungee/jni/NativeCodeException.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/native/src/main/java/net/md_5/bungee/jni/zlib/BungeeZlib.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/native/src/main/java/net/md_5/bungee/jni/zlib/JavaZlib.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/native/src/main/java/net/md_5/bungee/jni/zlib/NativeCompressImpl.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/native/src/main/java/net/md_5/bungee/jni/zlib/NativeZlib.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/native/src/test/java/net/md_5/bungee/NativeCipherTest.java">
+</file>
+<file name="/home/scarlet/BungeeFork/HexaCord/native/src/test/java/net/md_5/bungee/NativeZlibTest.java">
+</file>
+</checkstyle>
