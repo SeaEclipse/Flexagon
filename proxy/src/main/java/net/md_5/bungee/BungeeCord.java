@@ -544,7 +544,7 @@ public class BungeeCord extends ProxyServer
     @Override
     public String getVersion()
     {
-        return ( BungeeCord.class.getPackage().getImplementationVersion() == null ) ? "ruby" : "Porcoddio";
+        return ( BungeeCord.class.getPackage().getImplementationVersion() == null ) ? "sea" : "Flexagon:Custom:git:SeaEclipse";
     }
 
     public void reloadMessages()
